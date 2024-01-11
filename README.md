@@ -1,5 +1,29 @@
 # StudySync-Project
 
-My StudySync project is live on this [link](https://mayank-sisodiya19.github.io/StudySync-Project/)
+Welcome to the StudySync-Project! This project is designed to provide a platform for students to synchronize and manage their study materials effectively.
 
-![127 0 0 1_5500_index html (1)](https://github.com/Mayank-Sisodiya19/StudySync-Project/assets/80584242/f1acd42d-8d11-4d2c-a6c7-f942585272d2)
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+
+
+## Demo
+
+Check out the live demo of the project [here](https://mayank-sisodiya19.github.io/StudySync-Project/).
+
+## Features
+
+- Organize study materials, notes, and resources.
+- Collaborate with peers on shared projects and study sessions.
+- Track progress and set goals for academic achievements.
+- User-friendly interface for seamless navigation.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mayank-sisodiya19/StudySync-Project.git
